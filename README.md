@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=안녕하세요)
+![header](https://capsule-render.vercel.app/api?type=waving&text=HELLO)
 </div>
 <div align="left">
   
